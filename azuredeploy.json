@@ -51,6 +51,7 @@
     "deployPackageUri": {
       "type": "string",
       "minLength": 1,
+      "defaultValue": "https://github.com/Azure-Samples/app-service-web-php-get-started/archive/master.zip",
       "metadata": {
         "description": "WebDeploy package location."
       }
